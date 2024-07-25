@@ -1,0 +1,6 @@
+.weather, .location {
+    background: rgb(3, 179, 211);
+    background: linear-gradient(90deg, rgba(3, 179, 211, 1) 17%, rgba(3, 179, 211, 1) 61%, rgba(124, 148, 213, 1) 93%);
+    color: #fff;
+    border-radius: 20px;
+}

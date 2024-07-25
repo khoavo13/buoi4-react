@@ -8,3 +8,10 @@
     transform: translateX(0%);
     transition: 1s;
 }
+.weather h1 span::first-letter{
+    text-transform: capitalize;
+    
+}
+.weather{
+    background-color: aqua;
+}
